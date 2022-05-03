@@ -2,7 +2,7 @@ Build instructions for Hadoop
 
 ----------------------------------------------------------------------------------
 Requirements:
-
+***************
 * Unix System
 * JDK 1.8
 * Maven 3.3 or later
